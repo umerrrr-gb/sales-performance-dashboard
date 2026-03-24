@@ -19,5 +19,5 @@ This project analyzes sales data to understand business performance using SQL Se
 - East region performs the best among all regions
 
 ## 📷 Dashboard Preview
-![Dashboard](<img width="735" height="416" alt="88" src="https://github.com/user-attachments/assets/b797d7df-81f9-445c-bbf5-97d1b1627ef8" />
+(<img width="735" height="416" alt="88" src="https://github.com/user-attachments/assets/b797d7df-81f9-445c-bbf5-97d1b1627ef8" />
 )
